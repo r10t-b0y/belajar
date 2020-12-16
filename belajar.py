@@ -3,9 +3,9 @@ print "Selamat Datang Di Grup Saya"
 print "Member Baru Wajib Intro"
 
 # Input
-nama = input ("Masukkan Nama Samaran Anda := ")
+nama = raw_input("Masukkan Nama Samaran Anda := ")
 umur = int(input("Masukkan Usia Anda := "))
-asal = input ("Masukkan Alamat Anda := ")
+asal = raw_input("Masukkan Alamat Anda := ")
 contact = int(input("Masukkan Nomer Anda {contoh 6285xxxxxxxxx}:= "))
 
 # Output
