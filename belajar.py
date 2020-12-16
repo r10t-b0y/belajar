@@ -1,6 +1,6 @@
 # Program pengisian biodata
-print "Selamat Datang Di Grup Saya"
-print "Member Baru Wajib Intro"
+print "Selamat Datang Di Project Saya"
+print "Calon Member Baru Wajib Intro"
 
 # Input
 nama = raw_input("Masukkan Nama Samaran Anda := ")
