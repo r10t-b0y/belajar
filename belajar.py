@@ -20,5 +20,4 @@ if(umur < 18):
 if(umur >= 18):
     print "Selamat Anda Telah Mencukupi Syarat Untuk Masuk Grup Saya"
     print "Semoga Tidak Betah :V"
-    print "Link Grup = https://chat.wahatsapp.com/AJU875H2J"
-    
+    print "Link Grup = Mohon Maaf HP Saya Masih Error :V"
